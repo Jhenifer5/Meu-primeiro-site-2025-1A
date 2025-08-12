@@ -49,6 +49,6 @@ categoria-videos img {
 }
 
 categoria-videos img:hover {
-    opacity: 1 8;
+    opacity: 1.0;
     border: 3px solid gray
 }
